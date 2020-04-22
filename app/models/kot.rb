@@ -1,0 +1,2 @@
+class Kot < ApplicationRecord
+end
